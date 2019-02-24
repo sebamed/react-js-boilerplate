@@ -8,6 +8,7 @@ App is built on top of create-react-app project with some additions:
     - router 
     - axios
     - scss support
+    - i18n
 
 
 ### `redux, react-redux, redux-saga`
@@ -25,6 +26,10 @@ Using axios for http requests. Interceptors configured
 ### `scss support`
 
 Support for scss as a styling preprocessor
+
+### `i18n`
+
+Implemented i18n using react-intl library
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
