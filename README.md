@@ -13,7 +13,7 @@ App is built on top of create-react-app project with some additions:
 
 ### `redux, react-redux, redux-saga`
 
-Boilerplate setup for redux and sagas with example requests (GET)
+Boilerplate setup for redux and sagas with example requests (GET) on jsonplaceholder api
 
 ### `router`
 
