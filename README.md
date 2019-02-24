@@ -1,3 +1,31 @@
+# React Redux Application Boilerplate
+
+This project can be used as a rough start for your new React app.
+
+App is built on top of create-react-app project with some additions:
+
+    - redux, react-redux, redux-saga
+    - router 
+    - axios
+    - scss support
+
+
+### `redux, react-redux, redux-saga`
+
+Boilerplate setup for redux and sagas with example requests (GET)
+
+### `router`
+
+Initial react-router-dom setup with links, switch and default routes
+
+### `axois`
+
+Using axios for http requests. Interceptors configured
+
+### `scss support`
+
+Support for scss as a styling preprocessor
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
