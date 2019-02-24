@@ -1,8 +1,16 @@
 import React from 'react';
+import { FormattedMessage } from 'react-intl';
 
 const Home = props => {
     return (
-        <b>HOME</b>
+        <div>
+            <b>
+                <FormattedMessage id='home.welcome.title' defaultMessage='Welcome' />
+            </b>
+            <p>
+                <FormattedMessage id='home.welcome.text' />
+            </p>
+        </div>
     );
 }
 
