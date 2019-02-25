@@ -19,7 +19,7 @@ Boilerplate setup for redux and sagas with example requests (GET) on jsonplaceho
 
 Initial react-router-dom setup with links, switch and default routes
 
-### `axois`
+### `axios`
 
 Using axios for http requests. Interceptors configured
 
